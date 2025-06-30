@@ -20,10 +20,7 @@ A clean and responsive To-Do List web application developed using **HTML**, **CS
 
 - HTML5
 - CSS3
-- JavaScript (Vanilla JS)
-- Font Awesome (for icons)
-- Google Fonts
-
+- JavaScript 
 ---
 
 ## 📁 Project Structure
